@@ -4,14 +4,15 @@
 
 ## 目录
 * [01. 安装环境:Linux Red Head 6.5 64位][1]
-* [04. 配置Linux http服务][2]
-* [05. 配置NTP时钟服务器][3]
-* [06. 下载CDH5.11.1安装包][4]
-* [07. 安装Cloudera Manager][5]
-* [08. 添加CDH集群服务器][6]
-* [09. 添加集群组件][7]
+* [02. 配置httpd服务][2]
+* [03. 配置ntp服务][3]
+* [04. 下载CDH5.11.1安装包][4]
+* [05. 安装Cloudera Manager][5]
+* [06. 添加CDH集群服务器][6]
+* [07. 添加集群组件][7]
 
 [1]:https://github.com/zhangblue/CDH-install/blob/master/Install%20Linux.md
+
 
 
 
