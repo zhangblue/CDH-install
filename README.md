@@ -12,6 +12,10 @@
 * [07. 添加集群组件][7]
 
 [1]:https://github.com/zhangblue/CDH-install/blob/master/Install%20Linux.md
+[2]:https://github.com/zhangblue/CDH-install/blob/master/deployHttpd.md
+[3]:https://github.com/zhangblue/CDH-install/blob/master/deployNtp.md
+[4]:https://github.com/zhangblue/CDH-install/blob/master/downLoadCDH.md
+[5]:https://github.com/zhangblue/CDH-install/blob/master/Install-ClouderaManager.md
 
 
 
