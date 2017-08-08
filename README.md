@@ -1,5 +1,4 @@
 # CDH 5.11.1安装
---
 ## 介绍
 本套教程用于介绍CDH离线安装的步骤，此步骤为自己摸索与实际测试结果。在此作记录，方便以后查阅。
 
@@ -12,7 +11,7 @@
 * [08. 添加CDH集群服务器][6]
 * [09. 添加集群组件][7]
 
-[1]:./Install Linux.md
+[1]:https://github.com/zhangblue/CDH-install/blob/master/Install%20Linux.md
 
 
 
