@@ -53,21 +53,21 @@
 
 ## 配置IP地址
 使用cmserver为例。  
-编辑文件`/etc/sysconfig/network-scripts/ifcfg-em1`
+编辑文件`/etc/sysconfig/network-scripts/ifcfg-em1`   
 ![ip][13]
 
 ## 配置HostName
 使用cmserver为例。   
-编辑文件`/etc/sysconfig/network`
-
+编辑文件`/etc/sysconfig/network`   
+![hostname][13]
 
 
 ## 关闭iptables
-关闭防火墙：`service iptables stop`
-设置防火墙开机不启动：`chkconfig iptables off`
+关闭防火墙：`service iptables stop`   
+设置防火墙开机不启动：`chkconfig iptables off`   
 
 ## 设置hosts文件
-编辑文件`/etc/hosts`
+编辑文件`/etc/hosts`   
 ![hosts][16]
 
 [1]:./images/system_step1.JPG
@@ -84,4 +84,5 @@
 [12]:./images/system_step12.JPG
 [13]:./images/system_ip.png
 [16]:./images/hosts.png
+[17]:./images/system_hostname.png
 
