@@ -4,9 +4,11 @@
 
 ## 目录
 * [01. 安装环境:Linux Red Head 6.5 64位][1]
+* [02. 安装依赖包][8]
 * [02. 配置httpd服务][2]
 * [03. 配置ntp服务][3]
 * [04. 下载CDH5.11.1安装包][4]
+* [05. 搭建yum源][9]
 * [05. 安装Cloudera Manager][5]
 * [06. 添加CDH集群服务器][6]
 * [07. 添加集群组件][7]
@@ -16,6 +18,9 @@
 [3]:./deployNtp.md
 [4]:./downLoadCDH.md
 [5]:./Install-ClouderaManager.md
+[6]:./add-data.md
+[8]:./package_install.md
+[9]:./deployYum.md
 
 
 
