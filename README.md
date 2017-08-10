@@ -19,6 +19,7 @@
 [4]:./downLoadCDH.md
 [5]:./Install-ClouderaManager.md
 [6]:./add-data.md
+[7]:./install-hdfs.md
 [8]:./package_install.md
 [9]:./deployYum.md
 
