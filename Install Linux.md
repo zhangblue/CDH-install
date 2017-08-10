@@ -70,6 +70,11 @@
 编辑文件`/etc/hosts`   
 ![hosts][16]
 
+## 设置selinux文件
+编辑文件`/etc/selinux/config`,将`SELINUX`的值改为`disabled`。此文件生效必须要重启系统。   
+![selinux][18]
+
+
 [1]:./images/system_step1.JPG
 [2]:./images/system_step2.JPG
 [3]:./images/system_step3.JPG
@@ -85,4 +90,5 @@
 [13]:./images/system_ip.png
 [16]:./images/hosts.png
 [17]:./images/system_hostname.png
+[18]:./images/selinux-install.png
 
