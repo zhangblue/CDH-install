@@ -8,6 +8,7 @@
 
 > * 使用内嵌PostgresSQL数据安装完成CDH时，在CDH管理页面会有如下说明   
 > ![database_default1][1]   
+> 如果要在生产环境中使用CDH，请根据链接中的官方教程进行配置。
 > * scm数据库的用户名，密码   
 > 文件：`/etc/cloudera-scm-server/db.properties`
 > ![database_default2][2]
