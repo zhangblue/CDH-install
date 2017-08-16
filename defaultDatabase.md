@@ -11,7 +11,7 @@
 > 如果要在生产环境中使用CDH，请根据链接中的官方教程进行配置。
 > * scm数据库的用户名，密码   
 > 文件：`/etc/cloudera-scm-server/db.properties`
-> ![database_default2][2]
+> ![database_default2][2]   
 > 根据文件内容，可以进入到数据库中查看数据。   
 > `psql -p 7432 scm scm`
 > * 其他数据库(如`Activity Monitor`,`Host Monitor`,`Service Monitor`,`Report Manager`,`Cloudera Navigator`)的用户名、密码   
