@@ -12,6 +12,8 @@
 * [07. 安装Cloudera Manager][5]
 * [08. 添加CDH集群服务器][6]
 * [09. 添加集群组件][7]
+* [10. CDH默认数据库][10]
+
 
 [1]:./Install%20Linux.md
 [2]:./deployHttpd.md
@@ -22,6 +24,7 @@
 [7]:./install-hdfs.md
 [8]:./package_install.md
 [9]:./deployYum.md
+[10]:./defaultDatabase.md
 
 
 
